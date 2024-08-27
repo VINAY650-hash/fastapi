@@ -1,5 +1,5 @@
 def greet():
-    return "Hello, World!"
+    return "Modified code!"
 
 if __name__ == "__main__":
     print(greet())
