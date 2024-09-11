@@ -11,7 +11,7 @@ struct HelloWorldApp: App {
 
 struct ContentView: View {
     var body: some View {
-        Text("Hello, Worlds!")
+        Text("Hello, vinay!")
             .padding()
     }
 }
